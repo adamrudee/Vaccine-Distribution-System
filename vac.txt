@@ -1,0 +1,25 @@
+Pfizer;2023-01-15;2025-01-15;19.99;true;Cold;H;Private;Kuala Lumpur;Malaysia;Express
+Moderna;2022-12-01;2024-12-01;18.49;true;Cold;C;Public;Jakarta;Indonesia;Standard
+J&J;2022-06-20;2024-06-20;14.99;false;Room;V;Public;Bangkok;Thailand;Economy
+AstraZeneca;2023-02-10;2025-02-10;15.79;true;Cold;H;Private;Singapore;Singapore;Standard
+Sinovac;2021-11-15;2023-11-15;12.99;false;Dry;C;Private;Beijing;China;Economy
+Covaxin;2023-03-01;2025-03-01;13.49;true;Cold;V;Private;Mumbai;India;Express
+Sputnik V;2022-08-20;2024-08-20;16.99;true;Cold;H;Public;Tokyo;Japan;Standard
+Novavax;2022-09-01;2024-09-01;17.49;true;Cold;C;Private;Riyadh;Arab;Economy
+Polio;2023-04-15;2025-04-15;19.99;true;Cold;H;Private;Kuala Lumpur;Malaysia;Express
+Rabies;2023-05-01;2025-05-01;18.49;true;Cold;C;Public;Jakarta;Indonesia;Standard
+Hepatitis A;2023-01-20;2025-01-20;12.99;false;Dry;V;Private;Singapore;Singapore;Economy
+Tetanus;2022-10-10;2024-10-10;13.49;true;Cold;H;Private;New Delhi;India;Express
+Diphtheria;2021-07-15;2023-07-15;15.79;true;Cold;C;Private;Bangkok;Thailand;Standard
+DTaP;2023-01-01;2025-01-01;14.99;false;Room;V;Private;Kuala Lumpur;Malaysia;Economy
+Varicella;2023-06-15;2025-06-15;17.49;true;Cold;H;Public;Jakarta;Indonesia;Standard
+Rotavirus;2023-02-28;2025-02-28;16.99;true;Cold;C;Private;Singapore;Singapore;Express
+ZyCoV-D;2022-11-15;2024-11-15;19.99;true;Cold;H;Private;Beijing;China;Standard
+Tuberculosis;2021-12-20;2023-12-20;18.49;true;Cold;C;Public;Tokyo;Japan;Economy
+Typhoid;2023-05-10;2025-05-10;14.99;false;Room;V;Private;Bangkok;Thailand;Express
+Flucelvax;2022-02-15;2024-02-15;15.79;true;Cold;H;Public;Jakarta;Indonesia;Standard
+Palivizumab;2023-07-01;2025-07-01;13.49;true;Cold;C;Private;Kuala Lumpur;Malaysia;Economy
+Ebola;2022-06-01;2024-06-01;12.99;false;Dry;V;Public;Singapore;Singapore;Express
+Smallpox;2022-10-15;2024-10-15;16.99;true;Cold;H;Private;Riyadh;Arab;Standard
+FluMist;2023-08-01;2025-08-01;17.49;true;Cold;C;Public;Mumbai;India;Economy
+Meningococcal B;2022-03-20;2024-03-20;19.99;true;Cold;H;Private;Jakarta;Indonesia;Express
